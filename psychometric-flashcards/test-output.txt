@@ -1,0 +1,13 @@
+✔ starter decks contain 12 valid cards each (18.4252ms)
+✔ known answers progress through intervals and cap at 60 days (3.9562ms)
+✔ forgotten card resets and returns exactly after one minute (3.6913ms)
+✔ backup round trip and invalid data rejection (5.257ms)
+✔ scheduling is immutable and dates use local calendar (3.5947ms)
+ℹ tests 5
+ℹ suites 0
+ℹ pass 5
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1100.1207
